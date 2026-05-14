@@ -1,6 +1,6 @@
 cask "prompttap" do
-  version "0.9.0"
-  sha256 "398962fc917e6ba4980c3beb6e9ddd0c37b43f3ed28bb62fed5d083af4c7dc62"
+  version "0.11.0"
+  sha256 "8f1e56a97a878c11fdb931e89350ee3234f7c3d930d16e98604f622d122382ff"
 
   url "https://github.com/tokorom/PromptTap/releases/download/#{version}/PromptTap-#{version}.dmg"
   name "PromptTap"
