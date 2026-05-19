@@ -8,4 +8,6 @@ cask "prompttap" do
   homepage "https://github.com/tokorom/PromptTap"
 
   app "PromptTap.app"
+
+  binary "PromptTap.app/Contents/MacOS/prompttap"
 end
