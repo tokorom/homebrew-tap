@@ -9,5 +9,5 @@ cask "prompttap" do
 
   app "PromptTap.app"
 
-  binary "PromptTap.app/Contents/MacOS/prompttap"
+  binary "PromptTap.app/Contents/Resources/prompttap"
 end
