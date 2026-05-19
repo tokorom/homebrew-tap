@@ -1,6 +1,6 @@
 cask "flowlauncher" do
-  version "0.10.0"
-  sha256 "48e9bc00261d848b19292529195e15f21876d30e2ec7b3e503d55d3776492372"
+  version "0.11.0"
+  sha256 "a6b6549af986255ce3396bce730598a122cf90688923890ef91bd66ad9d435e0"
 
   url "https://github.com/tokorom/FlowLauncher/releases/download/#{version}/FlowLauncher-#{version}.dmg"
   name "FlowLauncher"
