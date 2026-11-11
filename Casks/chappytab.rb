@@ -1,6 +1,6 @@
 cask "chappytab" do
-  version "0.8.0"
-  sha256 "4ce76a0a8d4c561ad8daba399a31233f2825c40fb445bd15a5e00b7aff80bcdb"
+  version "0.9.0"
+  sha256 "0ce0d26667fd3bc0b168dae420f898d008c70f148408c663674cb5397e812a02"
 
   url "https://github.com/tokorom/ChappyTab/releases/download/#{version}/ChappyTab-#{version}.dmg"
   name "ChappyTab"
